@@ -1,16 +1,12 @@
-# currency_converter
+# 🥳 Currency Converter
 
-A new Flutter project.
+💾 In this project I studied mainly:
 
-## Getting Started
+-   Flutter.
+-   Dart.
+-   OOP.
 
-This project is a starting point for a Flutter application.
+## Author
 
-A few resources to get you started if this is your first Flutter project:
+-   [Adeilson Á. A. Lima](https://www.github.com/adeilsonaalima)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
